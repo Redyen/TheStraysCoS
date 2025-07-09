@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Campaign/1.2 Summary.md",
+                "file": "1. Campaign/1.4 The Strays.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.2 Summary"
+              "title": "1.4 The Strays"
             }
           }
         ]
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Campaign/1.1 Intro.md",
+                "file": "1. Campaign/1.4 The Strays.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1.1 Intro"
+              "title": "Outline of 1.4 The Strays"
             }
           },
           {
@@ -156,17 +156,16 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,42 +184,44 @@
   },
   "active": "7affc5c7a1a1eef2",
   "lastOpenFiles": [
+    "4. World/4.9 Other/River Ivlis Crossroads.md",
+    "z_Attachments/River_Ivlis_Crossroads.jpg",
+    "1. Campaign/1.4 The Strays.md",
+    "1. Campaign/1.5 Barovia.md",
+    "2. Characters/Key Characters/Count Strahd von Zarovich.md",
+    "1. Campaign/1.3 Quests.md",
+    "z_Assets/Location Images/ArgynvostholtBanner.png",
+    "z_Assets/Location Images/baroviaBanner.png",
+    "4. World/4.1 Towns/Village of Barovia.md",
+    "4. World/4.1 Towns/Vallaki.md",
+    "4. World/4.1 Towns/Ravenloft.md",
+    "z_Assets/Location Images/VallakiBanner.png",
     "1. Campaign/1.1 Intro.md",
     "1. Campaign/1.2 Summary.md",
-    "2. Characters/Key Characters/Count Strahd von Zarovich.md",
+    "z_Assets/Character Images/Count Strahd 1.webp",
+    "z_Assets/Character Images/Count Strahd 2.png",
+    "z_Assets/Character Images/Nyx.jpg.~tmp",
+    "z_Assets/Character Images/Nyx.jpg",
+    "z_Assets/Character Images/Ajani.jpeg",
+    "4. World/4.2 Rivers and Lakes",
+    "4. World/4.3 Points of Interest",
+    "4. World/4.4 Shopkeepers",
+    "4. World/4.9 Other",
+    "4. World/Points of Interest",
+    "4. World/4.1 Towns",
     "3. Quest List/Kill Strahd.md",
-    "z_Assets/Character Images/Count Strahd.webp",
-    "4. World/Barovia.md",
     "0. Temporary Notes/Raw Notes.md",
     "0. Temporary Notes/Things to Add.md",
-    "4. World/Vallaki.md",
     "4. World/Barons mansion.md",
-    "4. World/Village of Barovia.md",
     "z_Attachments/Map of Vallaki.jpg",
     "z_Templates/Map Template.md",
     "z_Attachments/Map of barovia.jpg",
-    "z_Assets/Icons/questScroll.png",
-    "z_Assets/Location Images/baroviaBanner.png",
-    "z_Assets/Location Images/ArgynvostholtBanner.png",
-    "z_Assets/Location Images/berezBanner.png",
-    "z_Assets/Location Images/KrezkBanner.png",
-    "z_Assets/Location Images/RavenloftBanner.png",
-    "z_Assets/Location Images/VallakiBanner.png",
-    "1. Campaign/1.4 The Strays.md",
-    "1. Campaign/1.3 Quests.md",
     "z_Assets/Icons",
     "z_Assets/Location Images",
     "z_Assets/Character Images",
     "6. Miscellaneous/Tarokka Cards.md",
-    "3. Quest List",
-    "1. Campaign/Quest List",
-    "2. Characters/NPC's",
     "2. Characters/NPCs.md",
-    "z_Assets/Unconfirmed 242247.crdownload",
-    "2. Characters/Key Characters",
     "2. Characters/Key Characters.md",
-    "z_Assets/Zoophie.jpeg.~tmp",
-    "z_Assets/Unconfirmed 339835.crdownload",
     "1. Campaign/1.4 Miscellaneous.md",
     "Untitled.canvas",
     "2025-07-08.md",
@@ -229,8 +230,6 @@
     "z_Templates/Map - Insert Leaflet Template.md",
     "z_Templates/Untitled 1.md",
     "Characters/Characters.md",
-    "Title Test.md",
-    "Untitled 1.md",
     "z_Attachments/z_Attachments.canvas"
   ]
 }

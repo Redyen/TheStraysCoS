@@ -1,0 +1,1 @@
+![[baroviaBanner.png|right|250]]
