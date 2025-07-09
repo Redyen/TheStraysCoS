@@ -1,0 +1,40 @@
+{
+  "fonts": [
+    {
+      "id": "modern-antiqua",
+      "family": "Modern Antiqua",
+      "subsets": [
+        "latin",
+        "latin-ext"
+      ],
+      "styles": [
+        "normal"
+      ],
+      "weights": [
+        400
+      ],
+      "isActive": true
+    }
+  ],
+  "interfaceFonts": [
+    {
+      "id": "modern-antiqua",
+      "family": "Modern Antiqua",
+      "precedence": 0
+    }
+  ],
+  "textFonts": [
+    {
+      "id": "modern-antiqua",
+      "family": "Modern Antiqua",
+      "precedence": 0
+    }
+  ],
+  "monospaceFonts": [
+    {
+      "id": "modern-antiqua",
+      "family": "Modern Antiqua",
+      "precedence": 0
+    }
+  ]
+}

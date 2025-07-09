@@ -1,0 +1,188 @@
+{
+  "mapMarkers": [],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-pin",
+    "color": "#ff0000",
+    "transform": {
+      "size": 6,
+      "x": -1.5938019752502441,
+      "y": -2.1770894527435303
+    },
+    "isImage": false
+  },
+  "markerIcons": [
+    {
+      "type": "Town",
+      "iconName": "home",
+      "color": "#ff0000",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": -1.5938019752502441,
+        "y": -2.1770894527435303
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "River/Lake",
+      "iconName": "water",
+      "color": "#38c3ff",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": -1.5938019752502441,
+        "y": -2.1770894527435303
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Roads",
+      "iconName": "road",
+      "color": "#969696",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": -1.5938019752502441,
+        "y": -2.1770894527435303
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Forest",
+      "iconName": "tree",
+      "color": "#217a00",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": -1.5938019752502441,
+        "y": -2.1770894527435303
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Mountains",
+      "iconName": "mountain",
+      "color": "#c69306",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": -1.5938019752502441,
+        "y": -2.1770894527435303
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Encounter",
+      "iconName": "comment",
+      "color": "#e100ff",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": -1.5938019752502441,
+        "y": -2.1770894527435303
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": false,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": "false",
+    "defaultZoom": -1,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "750px",
+    "image": "[[Map of vallaki.jpg]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[Map of vallaki.jpg]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 1,
+    "minZoom": -1.5,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 0.09328358208955223,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 0.5,
+    "zoomFeatures": false,
+    "id": "VallakiMap",
+    "bounds": [
+      [
+        0,
+        0
+      ],
+      [
+        1536,
+        2048
+      ]
+    ],
+    "width": "75%",
+    "lat": 768,
+    "long": 1024,
+    "unit": "mi",
+    "recenter": false,
+    "darkmode": false,
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}
