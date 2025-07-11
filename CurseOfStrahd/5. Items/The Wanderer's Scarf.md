@@ -1,0 +1,4 @@
+Held by: Daera 
+Wondrous item, Rare
+
+![[WanderersScarf.png|right|267]]A player seeking family begins the campaign with the wanderer's scarf, a multicolored scarf woven with complex patterns. The fabric is soft and warm, and is long enough to be worn around the neck or over one's head. When bright sunlight, moonlight, or starlight is allowed to pass through it, the patterns seem to shimmer and twist in eerie and beautiful ways. The player who possesses the wanderer's scarf should have received the scarf from a beloved family member, and should have strong, vivid reasons to long for a sense of family and belonging 

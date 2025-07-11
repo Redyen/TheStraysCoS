@@ -16,4 +16,5 @@ scale: 0.09328358208955223 ### Real units/px (resolution) of your map
 recenter: false  
 darkmode: false ###
 ```
-![[VallakiBanner.png|right|250]]
+
+# Merchants and Points of Interest

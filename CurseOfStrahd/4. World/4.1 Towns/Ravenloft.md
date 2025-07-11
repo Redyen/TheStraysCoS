@@ -1,1 +1,0 @@
-![[RavenloftBanner.png|right|250]]

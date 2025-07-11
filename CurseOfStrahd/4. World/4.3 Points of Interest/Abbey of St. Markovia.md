@@ -1,0 +1,3 @@
+- Located in [[Krezk]]
+- Mentioned by [[Father Donovich]] as a place of protection
+- 
