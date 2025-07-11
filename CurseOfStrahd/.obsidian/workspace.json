@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Campaign/1.2 Story.md",
+                "file": "2. Characters/NPC's/Rictavia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.2 Story"
+              "title": "Rictavia"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Campaign/1.2 Story.md",
+                "file": "2. Characters/NPC's/Rictavia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1.2 Story"
+              "title": "Backlinks for Rictavia"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Campaign/1.2 Story.md",
+                "file": "2. Characters/NPC's/Rictavia.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1.2 Story"
+              "title": "Outgoing links from Rictavia"
             }
           },
           {
@@ -183,12 +183,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "77c217719567c72a",
+  "active": "7affc5c7a1a1eef2",
   "lastOpenFiles": [
-    "2. Characters/Key Characters/Baron.md",
-    "2. Characters/Key Characters/Strahd von Zarovich.md",
-    "1. Campaign/1.2 Story.md",
+    "z_Attachments/Pasted image 20250711183021.png",
     "Old Wizard Tower.md",
+    "z_Attachments/Pasted image 20250711182957.png",
+    "2. Characters/NPC's/Kazahn.md",
+    "z_Attachments/Pasted image 20250711182809.png",
+    "z_Attachments/Pasted image 20250711182807.png",
+    "2. Characters/NPC's/Victor.md",
+    "2. Characters/NPC's/Lady Fiona.md",
+    "z_Attachments/Pasted image 20250711182739.png",
+    "z_Attachments/Pasted image 20250711182713.png",
+    "2. Characters/Key Characters/Strahd von Zarovich.md",
+    "2. Characters/Key Characters/Baron.md",
+    "pixel-banner-images/Victor.png",
+    "pixel-banner-images",
+    "1. Campaign/1.2 Story.md",
     "1. Campaign/1.5 Barovia.md",
     "4. World/4.1 Towns/Vallaki.md",
     "2. Characters/NPC's/Rictavia.md",
@@ -203,11 +214,8 @@
     "2. Characters/NPC's/Rudolph Van Richten.md",
     "5. Items/Kazahn's ring.png",
     "2. Characters/NPC's/Zoldar.md",
-    "2. Characters/NPC's/Victor.md",
     "2. Characters/NPC's/Stella.md",
     "2. Characters/NPC's/Nikolai.md",
-    "2. Characters/NPC's/Lady Fiona.md",
-    "2. Characters/NPC's/Kazahn.md",
     "2. Characters/NPC's/Ismarelda.md",
     "2. Characters/Key Characters/Izek.md",
     "z_Assets/Misc/EternaLuxe-2.pdf",
@@ -215,22 +223,14 @@
     "z_Assets/Misc",
     "z_Assets/Location Images/TserPool.png",
     "z_Assets/Item Images/Traitor.png",
-    "z_Assets/Item Images/Myrmidon.png",
-    "z_Assets/Item Images/Mists.png",
-    "z_Assets/Item Images/Marionette.png",
-    "z_Assets/Item Images/Bishop.png",
     "2. Characters/NPC's/Stanimir.md",
-    "2. Characters/NPC's/Eliza.md",
     "z_Attachments/EternaLuxe-2.pdf",
-    "z_Attachments/Calender.jpg",
-    "z_Assets/Maps/Map of barovia.jpg",
     "z_Assets/Maps",
     "z_Assets/Item Images",
     "5. Items",
     "4. World/4.4 Merchants",
     "4. World/4.3 Points of Interest",
     "4. World/4.2 Rivers and Lakes",
-    "2. Characters/Player Characters",
     "Untitled.canvas",
     "z_Attachments/z_Attachments.canvas"
   ]

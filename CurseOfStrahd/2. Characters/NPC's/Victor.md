@@ -1,3 +1,4 @@
+![[Pasted image 20250711182713.png|240]]
 - [[Baron]]'s son
 - Resides in the attic of the [[Baron]]'s mansion
 - Has some spirits (is that the right term?) around the attic, like a skeleton cat
