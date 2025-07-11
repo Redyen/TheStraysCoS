@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Characters/NPC's/Father Donovich.md",
+                "file": "0. Temporary Notes/Things to Add.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Father Donovich"
+              "title": "Things to Add"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Characters/NPC's/Father Donovich.md",
+                "file": "0. Temporary Notes/Things to Add.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Father Donovich"
+              "title": "Backlinks for Things to Add"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Characters/NPC's/Father Donovich.md",
+                "file": "0. Temporary Notes/Things to Add.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Father Donovich"
+              "title": "Outgoing links from Things to Add"
             }
           },
           {
@@ -184,6 +184,7 @@
   },
   "active": "9b9904d39dc82c0e",
   "lastOpenFiles": [
+    "2. Characters/NPC's/Father Donovich.md",
     "2. Characters/NPC's/Doru.md",
     "2. Characters/NPC's/Bildrath Cantemir.md",
     "2. Characters/Key Characters/Ireena Kolyana.md",
@@ -208,7 +209,6 @@
     "4. World/4.3 Points of Interest/St. Andral’s Church.md",
     "4. World/4.3 Points of Interest/Village of Barovia Church.md",
     "4. World/4.3 Points of Interest/Abbey of St. Markovia.md",
-    "2. Characters/NPC's/Father Donovich.md",
     "2. Characters/NPC's/Gertruda.md",
     "2. Characters/NPC's/Ismark Antonovich.md",
     "2. Characters/NPC's/Madam Eva.md",
