@@ -385,3 +385,20 @@ Rudolph explains that Nyx can still get rid of his lycanthropy curse, up until t
 
 Rudolph states he wishes to stay in ambiguity, not step up and either fight [[Izek]] or the [[Baron]], nor take up any mantle if they fall. He suggests we speak with Arabelle. He also hints at that there are those in the vestani camp who have been corrupted by [[Strahd von Zarovich]]. 
 
+The next morning, we find [[Clover D Hammerstrike]] in the inn, surprisingly early. Did he even sleep? What did he get up to? Clover asks [[Zoophie Korhen]] if she went to school, and she fully trauma dumps. They then convince Clover to sing a song, as [[Rictavia]] walks downstairs and hints we can follow him. Thus we do. The town is active with preparations for the [[Festival of the Blazing Sun]]. 
+
+At the stockyard, [[Rictavia]] opens the cart for us, revealing Arabelle. She has a copper necklace with a carviture. She said she had expected us, having had a premonition and left clues for us to find her. Arabelle has the ability to sense the future and attempts to guide it. She says [[Strahd von Zarovich]] is after such abilities. Not even [[St. Andral’s Church]] would be safe, as that is where [[Strahd von Zarovich]] would look first. 
+
+Out the shadows walks Aragall, who comes from the vestani camp. He beckons Arabelle to come out the wagon and come with her. We have a stern discussion with Aragall, which ends in [[Rictavia]] pulling out the severed head of the vestani who had captured Arabelle, alongside an amulet to cast speak with the dead. 
+
+Through asking the deceased vestani, we prove our innocence to Aragall. Then, a discussion arises about what to do next. After discussing many options, we agree to hide her with [[Rictavia]], using his hat for staying disguised.  
+
+[[Arabelle]] thanks us for keeping her safe, and tells [[Rictavia]] it was his son, Erasmus, who kept her company and kept her safe in the cart. She then staggers, and speaks with the sound of an older womans voice alongside hers: 
+
+ "*In darkest night, the light shall flee, No dawn to break, with no reprieve. From the grave, the dead shall climb, Their restless march a baleful sign. At castle’s peak, a heart beats red, Its hunger deep and ever-fed. Should silence fall, the skies shall crack, A thousand souls in torment black*."
+
+She then falls over unconscious. [[Rictavia]] is concerned, as her prophecy bears resemblance to what [[Madam Eva]] told him once. 
+
+[[Rictavia]] thanks us for our assistance and hands [[Nyx]] his [[Talisman of Echos]] (a magic item). Aragall too thanks us and says he can feed false information to [[Castle Ravenloft]], albeit only once. [[Rictavia]] will take his cart with [[Arabelle]] to the vestani camp this evening.
+
+We head to [[St. Andral’s Church]] to check on [[Ireena Kolyana]]. She is surprised by the wanted posters of her.  
