@@ -1,3 +1,3 @@
 - banner for the strays
 - Mass link names once notes are done(players, strahd, other main characters)
-- 
+- Test lol
