@@ -1,74 +1,5 @@
 {
-  "mapMarkers": [
-    {
-      "id": "VallakiMap",
-      "lastAccessed": 1752162882383,
-      "markers": [
-        {
-          "id": "ID_186b8a1b0b19",
-          "type": "Town",
-          "loc": [
-            590,
-            1606.39990234375
-          ],
-          "link": "Village of Barovia",
-          "layer": "%5B%5BMap%20of%20barovia.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.7843749523162842,
-            -0.3841145833333333
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_d8a8fbc8bbeb",
-          "type": "Point of Interest",
-          "loc": [
-            700.800048828125,
-            1914.800048828125
-          ],
-          "link": "East Gate",
-          "layer": "%5B%5BMap%20of%20barovia.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.9349609613418579,
-            -0.45625003178914386
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_9b388b092a89",
-          "type": "Point of Interest",
-          "loc": [
-            765.75,
-            1475
-          ],
-          "link": "Castle Ravenloft",
-          "layer": "%5B%5BMap%20of%20barovia.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "4. World/4.1 Towns/Vallaki.md"
-      ]
-    }
-  ],
+  "mapMarkers": [],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-pin",
@@ -165,22 +96,6 @@
       "type": "Encounter",
       "iconName": "comment",
       "color": "#e100ff",
-      "alpha": 1,
-      "layer": false,
-      "transform": {
-        "size": 6,
-        "x": -1.5938019752502441,
-        "y": -2.1770894527435303
-      },
-      "isImage": false,
-      "tags": [],
-      "minZoom": null,
-      "maxZoom": null
-    },
-    {
-      "type": "Point of Interest",
-      "iconName": "map-signs",
-      "color": "#52bcba",
       "alpha": 1,
       "layer": false,
       "transform": {
