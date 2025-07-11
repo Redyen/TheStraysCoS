@@ -10,3 +10,4 @@
 - Hates his party for some reason
 - Can channel one for all
 - **Really** likes [[Ireena Kolyana]]
+- Actively cursed with lycanthropy

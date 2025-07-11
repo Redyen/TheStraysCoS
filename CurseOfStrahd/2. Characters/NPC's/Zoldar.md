@@ -1,0 +1,5 @@
+- One of [[Vallaki]]'s most skilled hunters
+- Lives in a ramshackle hut to the west of [[Vallaki]]
+- Married to Yevgeni
+- Rips us off but takes us to the old Witch Tower
+- Tells us about a werewolf pack around the parts west of [[Vallaki]] as we travel

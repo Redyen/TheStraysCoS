@@ -1,0 +1,6 @@
+- Daughter of [[Lady Fiona]]
+- We first see her when we enter [[Lady Fiona]]'s mansion
+- Described as being 'not fully here' by her brother [[Nikolai]]
+- Currently in a state where she cannot speak or do anything
+- Was close with [[Victor]] for two months
+- Izek brought her to her family's house in this speechless, immobile state

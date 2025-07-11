@@ -1,0 +1,4 @@
+- Chicken
+- Pet of [[Ismarelda]]
+- Locked in a cage in the cart of [[Ismarelda]]
+- 
