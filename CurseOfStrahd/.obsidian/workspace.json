@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Characters/NPC's/Rictavia.md",
+                "file": "0. Temporary Notes/Raw Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rictavia"
+              "title": "Raw Notes"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 245.5
   },
   "right": {
     "id": "fad0138765af496e",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Characters/NPC's/Rictavia.md",
+                "file": "0. Temporary Notes/Raw Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Rictavia"
+              "title": "Backlinks for Raw Notes"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Characters/NPC's/Rictavia.md",
+                "file": "0. Temporary Notes/Raw Notes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Rictavia"
+              "title": "Outgoing links from Raw Notes"
             }
           },
           {
@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,6 +186,11 @@
   },
   "active": "7affc5c7a1a1eef2",
   "lastOpenFiles": [
+    "2. Characters/NPC's/Rudolph Van Richten.md",
+    "z_Attachments/Pasted image 20250711202405.png",
+    "0. Temporary Notes/Raw Notes.md",
+    "1. Campaign/1.2 Story.md",
+    "2. Characters/NPC's/Rictavia.md",
     "z_Attachments/Pasted image 20250711183021.png",
     "Old Wizard Tower.md",
     "z_Attachments/Pasted image 20250711182957.png",
@@ -199,10 +205,8 @@
     "2. Characters/Key Characters/Baron.md",
     "pixel-banner-images/Victor.png",
     "pixel-banner-images",
-    "1. Campaign/1.2 Story.md",
     "1. Campaign/1.5 Barovia.md",
     "4. World/4.1 Towns/Vallaki.md",
-    "2. Characters/NPC's/Rictavia.md",
     "2. Characters/NPC's/Athiri.md",
     "4. World/4.4 Merchants/Bildrath's Mercantile.md",
     "Blue Water Inn.md",
@@ -211,7 +215,6 @@
     "6. Miscellaneous/Tarokka Cards.md",
     "1. Campaign/1.1 Intro.md",
     "2. Characters/Key Characters/Escher.md",
-    "2. Characters/NPC's/Rudolph Van Richten.md",
     "5. Items/Kazahn's ring.png",
     "2. Characters/NPC's/Zoldar.md",
     "2. Characters/NPC's/Stella.md",
@@ -221,9 +224,6 @@
     "z_Assets/Misc/EternaLuxe-2.pdf",
     "z_Assets/Misc/Calender.jpg",
     "z_Assets/Misc",
-    "z_Assets/Location Images/TserPool.png",
-    "z_Assets/Item Images/Traitor.png",
-    "2. Characters/NPC's/Stanimir.md",
     "z_Attachments/EternaLuxe-2.pdf",
     "z_Assets/Maps",
     "z_Assets/Item Images",
