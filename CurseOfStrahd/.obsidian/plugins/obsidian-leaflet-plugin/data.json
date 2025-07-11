@@ -2,22 +2,22 @@
   "mapMarkers": [
     {
       "id": "VallakiMap",
-      "lastAccessed": 1752250109163,
+      "lastAccessed": 1752251736620,
       "markers": [
         {
-          "id": "ID_39c83b3b1859",
+          "id": "ID_186b8a1b0b19",
           "type": "Town",
           "loc": [
-            1031.6371722648605,
-            811.633855989357
+            590,
+            1606.39990234375
           ],
-          "link": "Vallaki",
+          "link": "Village of Barovia",
           "layer": "%5B%5BMap%20of%20barovia.jpg%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.39630559374480323,
-            -0.6716387840266019
+            0.7843749523162842,
+            -0.3841145833333333
           ],
           "description": null,
           "minZoom": null,
@@ -25,20 +25,55 @@
           "tooltip": "hover"
         },
         {
-          "id": "ID_a8daaaa80938",
-          "type": "default",
+          "id": "ID_d8a8fbc8bbeb",
+          "type": "Point of Interest",
           "loc": [
-            1075.5094141847387,
-            849.2352442050435
+            700.800048828125,
+            1914.800048828125
           ],
+          "link": "East Gate",
           "layer": "%5B%5BMap%20of%20barovia.jpg%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.4146656465844939,
-            -0.7002014415265226
+            0.9349609613418579,
+            -0.45625003178914386
           ],
-          "description": "Zoldar's hut",
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9b388b092a89",
+          "type": "Point of Interest",
+          "loc": [
+            765.75,
+            1475
+          ],
+          "link": "Castle Ravenloft",
+          "layer": "%5B%5BMap%20of%20barovia.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_88fbcb7a78e9",
+          "type": "River/Lake",
+          "loc": [
+            573.3499755859375,
+            1387.400146484375
+          ],
+          "link": "Tser Pool",
+          "layer": "%5B%5BMap%20of%20barovia.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
@@ -147,6 +182,22 @@
       "type": "Encounter",
       "iconName": "comment",
       "color": "#e100ff",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": -1.5938019752502441,
+        "y": -2.1770894527435303
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Point of Interest",
+      "iconName": "map-signs",
+      "color": "#52bcba",
       "alpha": 1,
       "layer": false,
       "transform": {

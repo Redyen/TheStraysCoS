@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "48eba5ee30eda01c",
+        "id": "146a039e5784dbbc",
         "type": "tabs",
         "children": [
           {
-            "id": "7affc5c7a1a1eef2",
+            "id": "9b9904d39dc82c0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -114,7 +114,11 @@
               "type": "outgoing-link",
               "state": {
                 "file": "2. Characters/NPC's/Rictavia.md",
+<<<<<<< Updated upstream
                 "linksCollapsed": true,
+=======
+                "linksCollapsed": false,
+>>>>>>> Stashed changes
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
@@ -183,6 +187,7 @@
       "templater-obsidian:Templater": false
     }
   },
+<<<<<<< Updated upstream
   "active": "7affc5c7a1a1eef2",
   "lastOpenFiles": [
     "z_Attachments/Pasted image 20250711183021.png",
@@ -206,13 +211,23 @@
     "2. Characters/NPC's/Athiri.md",
     "4. World/4.4 Merchants/Bildrath's Mercantile.md",
     "Blue Water Inn.md",
+=======
+  "active": "9b9904d39dc82c0e",
+  "lastOpenFiles": [
+    "2. Characters/NPC's/Stanimir.md",
+    "2. Characters/Key Characters/Strahd von Zarovich.md",
+>>>>>>> Stashed changes
     "2. Characters/NPC's/Doru.md",
-    "2. Characters/NPC's/Eggsmarelda.md",
-    "6. Miscellaneous/Tarokka Cards.md",
-    "1. Campaign/1.1 Intro.md",
+    "1. Campaign/1.2 Story.md",
+    "2. Characters/Key Characters/Baron.md",
     "2. Characters/Key Characters/Escher.md",
-    "2. Characters/NPC's/Rudolph Van Richten.md",
+    "6. Miscellaneous/Tarokka Cards.md",
+    "6. Miscellaneous/Eterna Lux.md",
+    "6. Miscellaneous/DeathHousenote.jpg",
+    "6. Miscellaneous/Barovian Calender.md",
+    "5. Items/The Wanderer's Scarf.md",
     "5. Items/Kazahn's ring.png",
+<<<<<<< Updated upstream
     "2. Characters/NPC's/Zoldar.md",
     "2. Characters/NPC's/Stella.md",
     "2. Characters/NPC's/Nikolai.md",
@@ -231,6 +246,42 @@
     "4. World/4.4 Merchants",
     "4. World/4.3 Points of Interest",
     "4. World/4.2 Rivers and Lakes",
+=======
+    "4. World/4.4 Merchants/Bildrath's Mercantile.md",
+    "3. Quest List/Kill Strahd.md",
+    "3. Quest List/✅Take Ireena to Villaki.md",
+    "2. Characters/Player Characters/Marcus k the 9th Bonelieous.md",
+    "2. Characters/Player Characters/Nyx.md",
+    "2. Characters/Player Characters/Zoophie Korhen.md",
+    "2. Characters/Player Characters/Daera.md",
+    "2. Characters/Player Characters/Clover D Hammerstrike.md",
+    "2. Characters/Key Characters/Ireena Kolyana.md",
+    "2. Characters/Key Characters/Izek.md",
+    "1. Campaign/1.5 Barovia.md",
+    "4. World/4.1 Towns/Village of Barovia.md",
+    "1. Campaign/1.4 The Strays.md",
+    "2. Characters/NPC's/Lady Fiona.md",
+    "4. World/4.2 Rivers and Lakes/Tser Pool.md",
+    "2. Characters/NPC's/Madam Eva.md",
+    "z_Assets/Item Images/Mists.png",
+    "z_Assets/Item Images/Marionette.png",
+    "z_Assets/Misc",
+    "z_Assets/Item Images/Bishop.png",
+    "z_Assets/Item Images/Myrmidon.png",
+    "z_Assets/Item Images/Traitor.png",
+    "z_Assets/Location Images/TserPool.png",
+    "z_Assets/Misc/Calender.jpg",
+    "z_Assets/Misc/EternaLuxe-2.pdf",
+    "z_Attachments/CurseOfStrahdText.png",
+    "z_Attachments/Unconfirmed 764639.crdownload",
+    "z_Assets/Maps",
+    "2. Characters/Player Characters",
+    "z_Assets/Item Images",
+    "z_Assets/Character Images/Nyx.jpg.~tmp",
+    "4. World/4.2 Rivers and Lakes",
+    "4. World/4.3 Points of Interest",
+    "4. World/4.4 Merchants",
+>>>>>>> Stashed changes
     "Untitled.canvas",
     "z_Attachments/z_Attachments.canvas"
   ]
