@@ -1,3 +1,3 @@
-- Seen with Strahd at the cross [[River Ivlis Crossroads]] with [[Count Strahd von Zarovich]]
+- Seen at the cross [[River Ivlis Crossroads]] with [[Count Strahd von Zarovich]]
 - Believed to be dead by [[Ireena Kolyana]] before the interaction
 - 

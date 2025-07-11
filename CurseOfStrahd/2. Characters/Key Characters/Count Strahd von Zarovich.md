@@ -4,3 +4,4 @@
 - Also known as the Devil of [[Castle Ravenloft|Ravenloft]]
 - 'Recently' awoken from his slumber in [[Castle Ravenloft]]
 - Ruler of [[1.5 Barovia|Barovia]] 
+- Killed Ajani at the [[River Ivlis Crossroads]]

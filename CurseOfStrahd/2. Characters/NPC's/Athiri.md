@@ -1,0 +1,4 @@
+- Resides in [[Tser Pool]] Encampment
+- Is one of the first to greet us when [[Madam Eva]] warns us of [[Count Strahd von Zarovich]] shadows being outside 
+- Is owed a debt from [[Rudolph Van Richten]] although we are not sure what
+- 
