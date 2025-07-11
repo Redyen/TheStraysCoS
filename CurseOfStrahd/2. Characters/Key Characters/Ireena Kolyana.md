@@ -2,4 +2,4 @@
 - Resident of the [[Village of Barovia]]
 - Sister to [[Ismark Antonovich]]. 
 - Currently travelling alongside [[1.4 The Strays|The Strays]]
-- Marked by [[Count Strahd von Zarovich]] on her neck and is being actively pursued
+- Marked by [[Strahd von Zarovich]] on her neck and is being actively pursued

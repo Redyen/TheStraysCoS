@@ -6,4 +6,4 @@ You say that you are cursed, your fortune spent. Your husband took solace in the
 
 Your dread lord and master,
 
-[[Count Strahd von Zarovich]]
+[[Strahd von Zarovich]]

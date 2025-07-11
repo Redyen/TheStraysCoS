@@ -1,5 +1,56 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "VallakiMap",
+      "lastAccessed": 1752250109163,
+      "markers": [
+        {
+          "id": "ID_39c83b3b1859",
+          "type": "Town",
+          "loc": [
+            1031.6371722648605,
+            811.633855989357
+          ],
+          "link": "Vallaki",
+          "layer": "%5B%5BMap%20of%20barovia.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.39630559374480323,
+            -0.6716387840266019
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a8daaaa80938",
+          "type": "default",
+          "loc": [
+            1075.5094141847387,
+            849.2352442050435
+          ],
+          "layer": "%5B%5BMap%20of%20barovia.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4146656465844939,
+            -0.7002014415265226
+          ],
+          "description": "Zoldar's hut",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "1. Campaign/1.5 Barovia.md"
+      ]
+    }
+  ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-pin",

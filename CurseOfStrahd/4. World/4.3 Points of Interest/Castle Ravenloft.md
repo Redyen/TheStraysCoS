@@ -1,3 +1,3 @@
-- [[Count Strahd von Zarovich]] place of Slumber
+- [[Strahd von Zarovich]] place of Slumber
 - Successfully defended an attack in a Rebellion lead by [[Doru]]
 - 
