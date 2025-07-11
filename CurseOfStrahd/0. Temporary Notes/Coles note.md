@@ -1,0 +1,24 @@
+Session 20
+
+- We return to the [[Blue Water Inn]]
+- Festival is up coming
+- We discuss how we should approach the evening
+- Nyx will become a werewolf in 3 days(the next full moon)
+- talking to Rictavia, has a childhood sweetheart called Inga
+	- has a daughter Eli that went to study at Darkon
+- Rivctavia is around 80 years old 
+- reacts to the mention of Escher and invites us to his apartment
+- Draws sword on us thinking we might be followers of Strahd
+- Recognises Kahzans sigil and the paper and diffuses the situation
+- Removes his hat to reveal a much older man known as [[Rudolph Van Richten]] 
+- Vastani man was carrying a wriggling sack to a golden haired vampire spawn 
+- [[Rudolph Van Richten]] was the one who saved Arabelle 
+- Strahd had sent a bounty on girls of her stature
+- He has been hiding her in the carriage 
+- Does not know of the kazahns Staff 
+- [[Ismarelda]] is the student of [[Rudolph Van Richten]] but they havent seen eahcother since a disagreement a few weeks back
+- viktor has [[Kazahn]]s magic book
+- His son is actually named Erasmus van Richten
+- Wants us to give Arabelle the gift in person
+- Escher was the one who was going to get Arabelle 
+- Can brew a potion to calm the curse for a single day using wolfsbane 
