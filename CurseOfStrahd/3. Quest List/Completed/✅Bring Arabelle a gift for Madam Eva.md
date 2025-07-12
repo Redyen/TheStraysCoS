@@ -1,0 +1,2 @@
+- [[Madam Eva]] asks us to buy a gift for [[Arabelle]]'s name day in [[Vallaki]] 
+- [[Arabelle]] goes missing right before our arrival and we are now tasks with [[✅Find Arabelle]]

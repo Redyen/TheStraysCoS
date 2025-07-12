@@ -1,0 +1,3 @@
+- Ruled by [[Strahd von Zarovich]]
+- Attacked [[Village of Barovia]]
+- 

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "48eba5ee30eda01c",
+        "id": "f897e667e4086c12",
         "type": "tabs",
         "children": [
           {
-            "id": "7affc5c7a1a1eef2",
+            "id": "9f31a957afac0a85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Temporary Notes/Raw Notes.md",
+                "file": "2. Characters/NPC's/Morgantha.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Raw Notes"
+              "title": "Morgantha"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 300
   },
   "right": {
     "id": "fad0138765af496e",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Temporary Notes/Raw Notes.md",
+                "file": "2. Characters/NPC's/Rictavia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Raw Notes"
+              "title": "Backlinks for Rictavia"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Temporary Notes/Raw Notes.md",
-                "linksCollapsed": true,
-                "unlinkedCollapsed": false
+                "file": "2. Characters/NPC's/Morgantha.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Raw Notes"
+              "title": "Outgoing links from Morgantha"
             }
           },
           {
@@ -166,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,53 +183,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7affc5c7a1a1eef2",
+  "active": "9f31a957afac0a85",
   "lastOpenFiles": [
-    "2. Characters/Key Characters/Baron.md",
-    "0. Temporary Notes/Raw Notes.md",
-    "Arabelle.md",
-    "z_Attachments/Pasted image 20250711223630.png",
-    "0. Temporary Notes/Coles note.md",
-    "z_Assets/Character Images/Victor.png",
-    "2. Characters/NPC's/Rudolph Van Richten.md",
-    "z_Attachments/Pasted image 20250711202405.png",
     "1. Campaign/1.2 Story.md",
-    "2. Characters/NPC's/Rictavia.md",
-    "z_Attachments/Pasted image 20250711183021.png",
-    "Old Wizard Tower.md",
     "z_Attachments/Pasted image 20250711182957.png",
-    "2. Characters/NPC's/Kazahn.md",
-    "z_Attachments/Pasted image 20250711182809.png",
-    "z_Attachments/Pasted image 20250711182807.png",
-    "2. Characters/NPC's/Victor.md",
-    "2. Characters/NPC's/Lady Fiona.md",
-    "z_Attachments/Pasted image 20250711182739.png",
-    "z_Attachments/Pasted image 20250711182713.png",
-    "2. Characters/Key Characters/Strahd von Zarovich.md",
-    "pixel-banner-images/Victor.png",
-    "pixel-banner-images",
+    "4. World/4.3 Points of Interest/Old Mill.md",
+    "4. World/4.1 Towns/Argynvostholt.md",
+    "5. Items/Silver Dragon Pendant.md",
+    "2. Characters/NPC's/Skeleton knight.md",
+    "Arabelle.md",
+    "3. Quest List/Completed/✅Bring Arabelle a gift for Madam Eva.md",
+    "3. Quest List/Completed/✅Find Arabelle.md",
+    "3. Quest List/Completed",
+    "3. Quest List/Active",
+    "2. Characters/NPC's/Madam Eva.md",
     "1. Campaign/1.5 Barovia.md",
-    "4. World/4.1 Towns/Vallaki.md",
-    "2. Characters/NPC's/Athiri.md",
+    "2. Characters/NPC's/Morgantha.md",
+    "2. Characters/NPC's/Sir Godfrey Gwilym.md",
+    "z_Assets/Location Images/ArgynvostholtBanner.png",
+    "6. Orders and Groups/Order of the Silver Dragons.md",
+    "4. World/4.3 Points of Interest/West Gate.md",
+    "1. Campaign/1.4 The Strays.md",
+    "6. Orders and Groups/Strahds Undead Army.md",
+    "6. Orders and Groups",
     "4. World/4.4 Merchants/Bildrath's Mercantile.md",
-    "Blue Water Inn.md",
-    "2. Characters/NPC's/Doru.md",
-    "2. Characters/NPC's/Eggsmarelda.md",
-    "6. Miscellaneous/Tarokka Cards.md",
-    "1. Campaign/1.1 Intro.md",
-    "2. Characters/Key Characters/Escher.md",
-    "2. Characters/NPC's/Zoldar.md",
-    "2. Characters/NPC's/Stella.md",
-    "2. Characters/NPC's/Nikolai.md",
-    "z_Assets/Misc/EternaLuxe-2.pdf",
+    "0. Temporary Notes/Things to Add.md",
+    "2. Characters/NPC's/Arturi.md",
+    "2. Characters/NPC's/Stanimir.md",
+    "z_Attachments/Pasted image 20250711182809.png",
+    "z_Attachments/Pasted image 20250711182739.png",
+    "z_Attachments/Viktor von Zarovich.png",
+    "z_Attachments/CurseOfStrahdText.png",
+    "z_Attachments/Pasted image 20250711182807.png",
+    "2. Characters/NPC's/Kazahn.md",
+    "z_Attachments/CarnivalofWonders.png",
+    "z_Attachments/RudlophvanRichten.png",
+    "z_Attachments/Arabelle.png",
+    "2. Characters/Key Characters/Rudolph Van Richten.md",
+    "1. Campaign/1.3 Quests.md",
+    "0. Temporary Notes/Raw Notes.md",
+    "0. Temporary Notes/Coles note.md",
+    "pixel-banner-images",
     "z_Assets/Misc",
-    "z_Attachments/EternaLuxe-2.pdf",
+    "z_Assets/Misc/EternaLuxe-2.pdf",
+    "z_Attachments/Unconfirmed 764639.crdownload",
     "z_Assets/Maps",
+    "2. Characters/Player Characters",
     "z_Assets/Item Images",
-    "5. Items",
-    "4. World/4.4 Merchants",
-    "4. World/4.3 Points of Interest",
-    "4. World/4.2 Rivers and Lakes",
     "Untitled.canvas",
     "z_Attachments/z_Attachments.canvas"
   ]

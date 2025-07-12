@@ -1,0 +1,1 @@
+- Godfrey awaits those who would raise their swords against the darkness that lurks in the castle’s depths

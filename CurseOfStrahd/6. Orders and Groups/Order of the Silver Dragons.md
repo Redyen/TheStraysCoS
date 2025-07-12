@@ -1,0 +1,1 @@
+![[ArgynvostholtBanner.png|right|250]]

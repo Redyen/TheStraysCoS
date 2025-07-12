@@ -1,0 +1,2 @@
+- Found in a watch tower near [[West Gate]]
+- 

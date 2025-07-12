@@ -1,4 +1,3 @@
-![[Pasted image 20250711182809.png|410]]
 - Powerful (dead?) mage
 - Has a sigil: 
 ![[Kazahn's ring.png|270]]
