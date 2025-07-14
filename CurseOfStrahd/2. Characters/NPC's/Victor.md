@@ -1,6 +1,6 @@
-![[Viktor von Zarovich.png|240]]
-- [[Baron]]'s son
-- Resides in the attic of the [[Baron]]'s mansion
+![[Viktor Vallakovich.png|240]]
+- [[Baron Vallakovich]]'s son
+- Resides in the attic of the [[Baron Vallakovich]]'s mansion
 - Has some spirits (is that the right term?) around the attic, like a skeleton cat
 - Attempting to cast a ritual to resurrect his dead wife
 - Aims to use [[Kazahn]]'s staff to do so

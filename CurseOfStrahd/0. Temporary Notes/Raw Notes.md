@@ -383,7 +383,7 @@ Lastly, Nyx asks Rudolph about [[Escher]], who answers that [[Escher]] was an un
 
 Rudolph explains that Nyx can still get rid of his lycanthropy curse, up until the full moon rises and he has his first transformation. While he can't fully get rid of the curse, Rudolph can brew Nyx a potion that supresses the curse and makes him into a docile wolf over a raging werewolf. He would need wolfsbane, said to grow along the shores of the blessed pool in [[Krezk]]. 
 
-Rudolph states he wishes to stay in ambiguity, not step up and either fight [[Izek]] or the [[Baron]], nor take up any mantle if they fall. He suggests we speak with Arabelle. He also hints at that there are those in the vestani camp who have been corrupted by [[Strahd von Zarovich]]. 
+Rudolph states he wishes to stay in ambiguity, not step up and either fight [[Izek]] or the [[Baron Vallakovich]], nor take up any mantle if they fall. He suggests we speak with Arabelle. He also hints at that there are those in the vestani camp who have been corrupted by [[Strahd von Zarovich]]. 
 
 The next morning, we find [[Clover D Hammerstrike]] in the inn, surprisingly early. Did he even sleep? What did he get up to? Clover asks [[Zoophie Korhen]] if she went to school, and she fully trauma dumps. They then convince Clover to sing a song, as [[Rictavia]] walks downstairs and hints we can follow him. Thus we do. The town is active with preparations for the [[Festival of the Blazing Sun]]. 
 
