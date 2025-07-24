@@ -1,0 +1,2 @@
+- [[The Barons Mansion]] is shown to have purple flashes late at night
+- We come to find this is Victor Vallakovich trying to revive his wife, [[Stella Wachter]]

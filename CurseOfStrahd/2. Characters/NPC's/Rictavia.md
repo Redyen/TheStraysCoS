@@ -1,5 +1,7 @@
+![[Rictavia.png|right|420]]
 - Bard
 - Gets a lunchbox to go every morning from the [[Blue Water Inn]]
+- Found first in the [[Blue Water Inn]] telling extravagant stories
 
 - In the [[Old Wizard Tower]], we found a concept drawing of 'Rictavia's Carnival of Wonders' and a note saying:
 	*For more than three decades now, I have undertaken to investigate and expose creatures of darkness to the purifying light of truth and knowledge. "Hero" I am named in some circles; "sage" and "master hunter" I am called in others. That I have survived countless supernatural assaults is seen as a marvel among my peers; my name is spoken with fear and loathing among my foes.*
