@@ -1,4 +1,4 @@
-Session 20
+## Session 20
 
 - We return to the [[Blue Water Inn]]
 - Festival is up coming
@@ -38,3 +38,7 @@ Session 20
 - [[Rudolph Van Richten]] hands over the Talisman of Echos to Nyx
 - Can pass one instance of false information to [[Castle Ravenloft]] through Arrigal 
 - We go to check on [[Ireena Kolyana]] and make sure alls fine. She is largely oblivious to news going on outside the church
+
+## Session 21
+
+- 
