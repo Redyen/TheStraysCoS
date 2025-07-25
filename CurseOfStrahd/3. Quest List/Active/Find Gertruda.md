@@ -1,0 +1,2 @@
+- She has gone missing from the [[Village of Barovia]]
+- 

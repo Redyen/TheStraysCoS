@@ -1,0 +1,2 @@
+- From the knight at [[West Gate]] we are told to seek [[Sir Godfrey Gwilym]] thought to be of the [[Order of the Silver Dragons]]
+- 

@@ -18,7 +18,7 @@ Session 20
 - Does not know of the kazahns Staff 
 - [[Ismarelda]] is the student of [[Rudolph Van Richten]] but they havent seen eahcother since a disagreement a few weeks back
 - viktor has [[Kazahn]]s magic book
-- His son is actually named Erasmus van Richten
+- His son is actually named Erasmus van Richten who had died
 - Wants us to give Arabelle the gift in person
 - Escher was the one who was going to get Arabelle 
 - Can brew a potion to calm the curse for a single day using wolfsbane 
