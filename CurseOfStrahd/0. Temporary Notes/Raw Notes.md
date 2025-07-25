@@ -385,7 +385,7 @@ Rudolph explains that Nyx can still get rid of his lycanthropy curse, up until t
 
 Rudolph states he wishes to stay in ambiguity, not step up and either fight [[Izek]] or the [[Baron Vallakovich]], nor take up any mantle if they fall. He suggests we speak with Arabelle. He also hints at that there are those in the vestani camp who have been corrupted by [[Strahd von Zarovich]]. 
 
-The next morning, we find [[Clover D Hammerstrike]] in the inn, surprisingly early. Did he even sleep? What did he get up to? Clover asks [[Zoophie Korhen]] if she went to school, and she fully trauma dumps. They then convince Clover to sing a song, as [[Rictavia]] walks downstairs and hints we can follow him. Thus we do. The town is active with preparations for the [[Festival of the Blazing Sun]]. 
+The next morning, we find [[Clover D Hammerstrike]] in the inn, surprisingly early. Did he even sleep? What did he get up to? Clover asks [[Zoophie Korhen]] if she went to school, and she fully trauma dumps. They then convince Clover to sing a song, as [[Rictavia]] walks downstairs and hints we can follow him. Thus we do. The town is active with preparations for the [[Barons Festival of the Blazing Sun]]. 
 
 At the stockyard, [[Rictavia]] opens the cart for us, revealing Arabelle. She has a copper necklace with a carviture. She said she had expected us, having had a premonition and left clues for us to find her. Arabelle has the ability to sense the future and attempts to guide it. She says [[Strahd von Zarovich]] is after such abilities. Not even [[St. Andral’s Church]] would be safe, as that is where [[Strahd von Zarovich]] would look first. 
 

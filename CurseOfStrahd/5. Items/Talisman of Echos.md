@@ -1,0 +1,1 @@
+- Can pass one instance of false information to [[Castle Ravenloft]] through Arrigal 

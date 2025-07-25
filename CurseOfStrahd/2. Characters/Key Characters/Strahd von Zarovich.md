@@ -5,3 +5,6 @@
 - 'Recently' awoken from his slumber in [[Castle Ravenloft]]: three months ago according to [[Lady Fiona Wachter]]
 - Ruler of [[1.5 Barovia|Barovia]] 
 - Killed Ajani at the [[River Ivlis Crossroads]]
+- Wants to find [[Ireena Kolyana]] 
+- Wants to [[Arabelle]] since she has some kind of power in reading futures
+- 

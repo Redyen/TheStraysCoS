@@ -1,0 +1,3 @@
+- [[Izek]] is a problem
+- [[Lady Fiona Wachter]] wants to take control over [[Vallaki]] but needs [[Baron Vallakovich]] to step down
+- We have poisoned wine and are trying to replace the wine Izek drinks everyday with it
