@@ -1,0 +1,3 @@
+- Scammed blacksmith to get a silver dagger for free
+- Secretly bought a book about **REDACTED**
+- Invading the mansion

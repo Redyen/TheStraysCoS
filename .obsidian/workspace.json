@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "b6a40a4e214d05ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff05cb64610532f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f33ff23411dd457a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CurseOfStrahd/1. Campaign/1.4 The Strays.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.4 The Strays"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "729b779181a8e4d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9f9ea16cb3e8639",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cd4aecd4a945522",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b3fa5a3db4ed8768",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6894cd8598692d4c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "094ccd41314b6a22",
+    "type": "split",
+    "children": [
+      {
+        "id": "8389e1e80b6d061d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b38a6ef0dfacbf4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CurseOfStrahd/1. Campaign/1.4 The Strays.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1.4 The Strays"
+            }
+          },
+          {
+            "id": "b4762bdb9d561389",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CurseOfStrahd/1. Campaign/1.4 The Strays.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1.4 The Strays"
+            }
+          },
+          {
+            "id": "d84789fffa22760f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d4488fa8bcd57d7c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CurseOfStrahd/1. Campaign/1.4 The Strays.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1.4 The Strays"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f33ff23411dd457a",
+  "lastOpenFiles": [
+    "CurseOfStrahd/1. Campaign/1.5 Barovia.md",
+    "CurseOfStrahd/1. Campaign/1.4 The Strays.md",
+    "CurseOfStrahd/1. Campaign/1.2 Story.md",
+    "CurseOfStrahd/1. Campaign/1.3 Quests.md",
+    "CurseOfStrahd/1. Campaign/1.1 Intro.md",
+    "CurseOfStrahd/0. Temporary Notes/Things to Add.md",
+    "CurseOfStrahd/0. Temporary Notes/Raw Notes.md",
+    "CurseOfStrahd/0. Temporary Notes/Claudio Notes.md",
+    "CurseOfStrahd/4. World/4.4 Merchants/Bildrath's Mercantile.md",
+    "CurseOfStrahd/4. World/4.4 Merchants/Janvich and Sons.md",
+    "CurseOfStrahd/6. Miscellaneous/Eterna Lux.md",
+    "CurseOfStrahd/6. Miscellaneous/DeathHousenote.jpg",
+    "CurseOfStrahd/6. Miscellaneous/Tarokka Cards.md",
+    "CurseOfStrahd/6. Miscellaneous/Note from Strahd to Elisabeth.md",
+    "CurseOfStrahd/6. Miscellaneous/Barovian Calender.md",
+    "CurseOfStrahd/6. Miscellaneous",
+    "CurseOfStrahd/z_Attachments/EternaLuxe-2.pdf",
+    "CurseOfStrahd/4. World/4.4 Merchants/The Vallaki Apothecary.md",
+    "CurseOfStrahd/4. World/4.4 Merchants/Blinsky’s Toy Store.md"
+  ]
+}
