@@ -41,4 +41,25 @@
 
 ## Session 21
 
+- We go to he bookstore where [[Clover D Hammerstrike]] picks up a new book
+- we go to the merchant where [[Clover D Hammerstrike]] gets a new silver dagger. Zoophie talks to the Merchant about the Baron 
+- We head to the barons house to intercept the wine for [[Izek]]
+- [[Nyx]], [[Clover D Hammerstrike]] disguise themselves as a guard and 
+- [[Ireena Kolyana]], [[Daera]] , [[Marcus k the 9th Bonelieous]] and [[Zoophie Korhen]] decide to keep watch 
+- After some convincing the Baroness lets Nyx and Clover into the house and the 
+- Clover convinces her that he is there on [[Strahd von Zarovich]]'s orders 
+- Marcus successfully hides [[Ireena Kolyana]]'s identity from passing guards while [[Daera]] rambles about gnomes
+- They find a room fukll of dolls that look like [[Ireena Kolyana]]
+- Nyx and Clover then investigate more of the barons mansion, stumbling into the baron and his dogs but successfully dissuade him
+- Nyx and Clover get out the masnion with the food and wine successfully
+- We follow in suite to the town square to poison [[Izek]]
+- [[Zoophie Korhen]] distracts the real version of teh guard [[Nyx]] is pretending to be while Nyx and Clover deliver the food and wine. [[Marcus k the 9th Bonelieous]] and Clover tries to protect [[Ireena Kolyana]] identity while [[Daera]] tries to distract one of the guards
+- We follow Izek around [[Vallaki]] as he does his rounds and try to sneakily blend in and not raise any alarms to Izek of our presence
+- Izek mentions a 'peddler' that will return tomorrow and requests a dream pastry 
+- We follow [[Izek]] after he disbands his guards to an alcove and things get a little spicey
+- Its time to D-D-D-D-D-D-Duel
+
+
+## Session 22
+
 - 
