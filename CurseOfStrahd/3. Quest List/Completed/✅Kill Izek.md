@@ -1,0 +1,4 @@
+- [[Izek]] is a problem
+- [[Lady Fiona Wachter]] wants to take control over [[Vallaki]] but needs [[Baron Vallakovich]] to step down
+- We have poisoned wine and are trying to replace the wine Izek drinks everyday with it
+- We clocked him at the alcove and find out that he held an amber shard

@@ -1,4 +1,4 @@
-## Session 20
+	## Session 20
 
 - We return to the [[Blue Water Inn]]
 - Festival is up coming
@@ -62,4 +62,51 @@
 
 ## Session 22
 
-- 
+- We find out that [[Ireena Kolyana]] and [[Izek]] are siblings.
+- We search his body and find a note about Ireena, a picture, and a burnt journal from a guard
+- We find an amber gem that resembles the amber in the mansion
+- We fight Volenta as well but she runs away
+- nyx casts speak with the dead with izek and ask
+	- Who is your parents
+		- Grygori and Fatima Strazni
+	- How did you get the arm 
+		- From the gem he made a bond
+	- How did you make the bond
+		- An agreement with the beyond
+	- Who did you make the pact with
+		- Seriach, the Hell Hound Whisperer
+	- What happened to [[Stella Wachter]]
+		- Idk
+- Zoophie goes a little crazy and wants to kill her uncle due to gaining a sense of power after killing [[Izek]]
+- We see that teh Amber shard in the hand of Daera is similar to the one that we find on the body of [[Izek]]
+
+## Session 23
+
+- We walk back to Vallaki with Izeks head and are asked for the 1 gold piece entry
+- we pay up for entry thanks to Clover and head to lady fionas
+- We reach [[Lady Fiona Wachter]]'s house and are greeted by her servant
+- We convince him and remove his shoes
+- Lady fiona will go to the burgermasters mansion and convince him to hand over power
+- She invites us to the transition tomorrow of her becoming baroness 
+- She tells us a story of a 4th village called Berez a fishing village
+- The Burgermaster denied the will of Strahd and Strahd commanded the river lunar to swallow the village destroying the village in the process
+- She admits she wont deny Strahd fully but will try to live under him without defiance and peacefully 
+- She mentions a fairytale of a sword that shines the fury of a sun 
+- We return with our reward to the blue water in 
+- In the night Clover and Nyx have strange dreams, Clovers about missing a thumb and Nyx about being a fancy castle
+- Zoophie is greeted in the morning by a cold frost that writes help Viktor please in the window 
+- Erasmus is the one who wrote it on the window
+- We head straight to [[The Barons Mansion]] but get stopped to get told to gather in teh town centre for the announcement
+- We find out that both Erasmus and Stella are with Viktor and we will help him after the task in the city centre 
+- We go and see Fiona taking over from [[Baron Vallakovich]] 
+- We hear of a religion of the mist and those who follow it. Some believing that the God of the morning sun may no longer be the religion that has presence within Vallaki 
+- Viktor and Stella tried to run away. Stella was a human test
+- her soul and body got split
+- erasmus saved her and dragged her to the mirror
+- believer it was a gallow speaker that split her soul from her body
+- We need to reconstruct the teleportation circle
+- Investigate the night hag around the refugee camp
+- Mention Erasmus and also The Hag
+
+
+## Session 24
